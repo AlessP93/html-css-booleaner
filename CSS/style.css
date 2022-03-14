@@ -32,3 +32,20 @@ thead {
     color: white;
 }
 
+.textfoto{
+    color: grey;
+}
+
+.graph {
+    background-image: url("graph.jpg");
+    background-repeat: no-repeat;
+    color: white;
+    
+}
+
+.monitor {
+    background-image: url("graph.jpg");
+    background-repeat: no-repeat;
+    color: white;
+}
+

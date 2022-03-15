@@ -40,6 +40,8 @@ thead {
     background-image: url("graph.jpg");
     background-repeat: no-repeat;
     color: white;
+    width: 311px;
+    height: 207px;
     
 }
 
@@ -47,5 +49,7 @@ thead {
     background-image: url("graph.jpg");
     background-repeat: no-repeat;
     color: white;
+    width: 312px;
+    height: 208px;
 }
 
